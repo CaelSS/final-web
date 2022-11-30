@@ -1,0 +1,10 @@
+#profile-container{
+    display: flex !important;
+    align-items: center;
+    justify-content: 'center';
+    height: 100vh !important;
+    width: 20vw;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
